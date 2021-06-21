@@ -30,8 +30,6 @@ RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
     && touch ~/.bashrc \
     && mkdir /run/nginx \
     && git clone -b ${QL_BRANCH} ${QL_URL} ${QL_DIR} \
-    && cd ${QL_DIR} \
-    && cp -f .env.example .env \
     && chmod 777 ${QL_DIR}/shell/*.sh \
     && chmod 777 ${QL_DIR}/docker/*.sh \
     && npm install -g pm2 \
