@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/gnowmil/shutd">
-    <img width="150" src="https://qinglong.whyour.cn/qinglong.png">
-  </a>
-</p>
-
 python和javaScript的定时任务管理面板
 
 2.2-066不升级版本，低调、自用不要star不要fork。
