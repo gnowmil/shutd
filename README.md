@@ -37,6 +37,8 @@ python和javaScript的定时任务管理面板
 
 ## 多谢
 
+* [whyour](https://github.com/whyour)
+
 * [nevinee](https://gitee.com/evine)
 
 * [crontab-ui](https://github.com/alseambusher/crontab-ui)
